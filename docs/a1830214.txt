@@ -10,3 +10,5 @@
 
 - Initial commit
 
+### Changed
+- Removed low severity bugs form a1830214.txt (unintensional capitalisation of some words in line 1) https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/75
